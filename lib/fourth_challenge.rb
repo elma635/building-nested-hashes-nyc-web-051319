@@ -15,7 +15,7 @@ def fourth_challenge
       :heroine_friends => [
         :Benvolio {},
         :Mercutio {}
-            ]
+      ]
    }
 }
 
